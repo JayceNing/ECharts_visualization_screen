@@ -11,6 +11,7 @@ B站黑马前端《ECharts数据可视化项目》学习笔记：使用ECharts�
 * VSCode cssrem 插件
 * Flex 布局
 * Less 使用
-* 基于 ECharts 数据可视化展示
+* 基于 ECharts 数据可视化展示。官网：https://echarts.apache.org/zh/index.html
 * ECharts 柱状图数据设置
 * ECharts 地图引入
+  * 由于引入地图来自echarts gallery，目前已经无法访问。该部分代码直接复制B站课程相应代码
