@@ -4,6 +4,7 @@ B站黑马前端《ECharts数据可视化项目》学习笔记：使用ECharts�
 
 # 页面展示
 * 本人按教程制作得到的页面如下：https://bupt-ningxinyu.github.io/ECharts_visualization_screen/demo/index.html
+* 在demo基础上制作智慧园区数据监控面板如下：https://bupt-ningxinyu.github.io/ECharts_visualization_screen/smartcity_visualization_screen/index.html
 
 # 文件夹说明
 * echart文件夹是B站黑马前端原版本，地址：https://gitee.com/xiaoqiang001/eckarts_open_class/tree/master
